@@ -5,10 +5,14 @@ Este proyecto es una API REST desarrollada en **C#** usando **ASP.NET Web API** 
 ## Capturas de Pantalla
 
 ### Pantalla Principal de la API
-![Pantalla Principal](./Captura.jpg)
+### Captura 1
+![Captura 1](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-/blob/main/Captura.PNG)
+
+### Captura 2
+![Captura 2](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-/blob/main/Captura1.PNG)
 
 ### Ejemplo de Respuesta de la API
-![Ejemplo de Respuesta](./Captura1.jpg)
+![Captura 2](https://github.com/kair069/API-WEB-C-CRUD-USUARIOS-MYSQL-/blob/main/Captura2.PNG)
 
 ## Requisitos previos
 
